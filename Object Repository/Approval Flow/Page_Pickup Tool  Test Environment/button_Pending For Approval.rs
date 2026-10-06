@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pending For Approval</name>
+   <tag></tag>
+   <elementGuidId>f4e0986f-a97c-456a-9d1d-321b3249faf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-ref=&quot;components\.flat-tab\.tab-trigger\.Pending\ For\ Approval&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-ref = 'components.flat-tab.tab-trigger.Pending For Approval']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>751d3733-2243-446e-bd1a-263cffad91e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a75d0ef4-aa89-42dc-a343-5d365eb2cb64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>8093eb90-752a-4a88-9159-4f08ab58aa6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2fb185cb-3c71-43c7-9975-9ce49194cd40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>radix-_r_0_-content-Pending For Approval</value>
+      <webElementGuid>3d7f9a21-aab9-45c7-b865-d7d74103527d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>inactive</value>
+      <webElementGuid>4f92fc7d-963e-4cdc-bc95-5671563c0184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radix-_r_0_-trigger-Pending For Approval</value>
+      <webElementGuid>bc7bd17c-271e-4e4a-b002-79228184f4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>tabs-trigger</value>
+      <webElementGuid>e855a5e4-d256-433f-86f5-9b06059c0ffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:outline-ring justify-center whitespace-nowrap focus-visible:ring-[3px] focus-visible:outline-1 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:shadow-sm [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*='size-'])]:size-4 group flex h-auto cursor-pointer items-center gap-[10px] rounded-none border-0 px-3 py-2.5 text-[14px] font-medium leading-5 text-[#333333] shadow-none transition-colors hover:bg-transparent focus-visible:outline-none data-[state=active]:bg-[#FEF2F0] data-[state=active]:pb-[11px] data-[state=active]:pt-[10px] data-[state=active]:text-[#B10A00] data-[state=active]:border-b data-[state=active]:border-b-[#B10A00]</value>
+      <webElementGuid>7b2f3f19-6a00-40ba-b9b4-a6a0280aec55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>components.flat-tab.tab-trigger.Pending For Approval</value>
+      <webElementGuid>edf1a366-22e1-4d5e-86e3-c29c67eaa71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>db643c84-eabc-4e01-857b-b8108c7ceff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-orientation</name>
+      <type>Main</type>
+      <value>horizontal</value>
+      <webElementGuid>90b436ea-1d1b-42d9-a084-156b1595515f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pending For Approval331</value>
+      <webElementGuid>8261b00e-2420-4617-b668-55f8481e99d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9987b08a0bb0ec636d12eff68a7fffa5</value>
+      <webElementGuid>13092fa8-4ab5-475f-ad04-b2760515093b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-ref = 'components.flat-tab.tab-trigger.Pending For Approval']</value>
+      <webElementGuid>f2572e8a-93ee-45f0-9b30-652e68f3bdbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-ref = 'components.flat-tab.tab-trigger.Pending For Approval']</value>
+      <webElementGuid>46a5b45d-268a-4401-b798-ed0bc079cc5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'radix-_r_0_-trigger-Pending For Approval' and (text() = 'Pending For Approval331' or . = 'Pending For Approval331')]</value>
+      <webElementGuid>bdbc6bd8-263c-4019-ade3-070dab028eda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

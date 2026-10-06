@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_browse</name>
+   <tag></tag>
+   <elementGuidId>5a1dc91b-9b39-49df-8bb0-7ba7a0076399</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-other-info ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.text-other-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bdb87359-1496-4d08-8415-213972ca6a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium underline text-other-info</value>
+      <webElementGuid>bac9ab8d-30a0-4922-a4d0-592f462d870f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>browse</value>
+      <webElementGuid>700beed8-2509-4f16-a593-baa113f5d4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c9a55cd0731630f1d5807849cc479585</value>
+      <webElementGuid>b6cd1cb8-fd3d-49c6-ab23-3df944020983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-other-info ')]</value>
+      <webElementGuid>d5b44b6d-c630-4c4c-9959-7a8acddfcc8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-other-info ')]</value>
+      <webElementGuid>387fd0ce-7a4f-45e3-a3cd-e9bfcfb5022e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'browse' or . = 'browse')]</value>
+      <webElementGuid>7bb50abe-7a42-44bb-8e81-c4514ad65328</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

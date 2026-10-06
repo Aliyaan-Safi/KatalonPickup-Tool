@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_h-7 w-7 cursor-pointer</name>
+   <tag></tag>
+   <elementGuidId>eb07225d-d314-4f08-8018-0321c3266330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.cursor-pointer[fill=&quot;none&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//svg[@class and contains(concat(' ', normalize-space(@class), ' '), ' cursor-pointer ') and (@fill = 'none')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>6c20c963-5bfd-4224-91a9-d8847cefc552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-7 w-7 cursor-pointer</value>
+      <webElementGuid>6ead5f9a-bf12-43bc-af32-3bf7b7989570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>1ac9f999-9fb3-428a-a512-e433346fb622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>05fb7f6c-2b33-4dc5-9f9a-c5e12032143f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>789648e5-f0bd-4a92-a620-a1ad5c2eb5df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4ace861bae5f28af6d8af51849ba7341</value>
+      <webElementGuid>7cff50e9-ad66-4aaa-abb0-1c2040491e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//svg[@class and contains(concat(' ', normalize-space(@class), ' '), ' cursor-pointer ') and (@fill = 'none')]</value>
+      <webElementGuid>b15328ad-b1b0-4e59-aab9-f415af45a3af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//svg[@class and contains(concat(' ', normalize-space(@class), ' '), ' cursor-pointer ') and (@fill = 'none')]</value>
+      <webElementGuid>ce29f98d-1ad8-414c-8d09-13dc5a744c5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

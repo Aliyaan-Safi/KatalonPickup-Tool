@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_data-stateopen_animate-in data-stateclo</name>
+   <tag></tag>
+   <elementGuidId>365ea454-dd9b-4654-89ce-d95fac868468</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-slot = 'dialog-overlay']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-slot=&quot;dialog-overlay&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.data-\[state\=open\]\:animate-in >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63dc69bb-4826-4c2c-9612-711cd4a19e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>open</value>
+      <webElementGuid>d9c9eee1-4ad0-40f5-a5f7-26bb35f2fcdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>dialog-overlay</value>
+      <webElementGuid>5e9190ac-6fa3-4bf3-b52c-a02a483d7fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 fixed inset-0 z-50 bg-black/80</value>
+      <webElementGuid>024ff84c-2c75-4d28-b3a8-a49669015fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ea5580e4-3420-47c7-ad41-1f4827ae289b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2bbb35bf-42b7-4887-a1e0-bcbf93431601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d1e895a874754b53c11784f145f71b93</value>
+      <webElementGuid>ec8a97cf-f325-48d1-84f0-fc26c9724be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-slot = 'dialog-overlay']</value>
+      <webElementGuid>0f8fab6a-828c-46b7-a0aa-260bb83791aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-slot = 'dialog-overlay']</value>
+      <webElementGuid>a2d700fa-625c-41ed-9dd8-36fef39077aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

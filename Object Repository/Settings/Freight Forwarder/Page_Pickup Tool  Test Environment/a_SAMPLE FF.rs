@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SAMPLE FF</name>
+   <tag></tag>
+   <elementGuidId>032ce5b2-1229-4ca2-93d7-28c4f537d761</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/section/main/div[2]/div[2]/div/table/tbody/tr/td/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-blue-5.underline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6acf539e-2013-48fb-b35e-0c08a6eb2b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-blue-5 underline</value>
+      <webElementGuid>489d6f7c-44e5-42a8-bd9d-dca8d6ea2909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/settings/freight-forwarder/partner/update/48d54d28-25fe-4382-9f0b-32485ac27a3a</value>
+      <webElementGuid>6ce55227-43fd-459b-8352-449115741949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-discover</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4290969a-fb3e-4c92-b46f-4d7c6240db1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SAMPLE FF</value>
+      <webElementGuid>41a29549-1488-40b6-bdc1-be850eaea794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-svh w-full&quot;]/section[@class=&quot;flex mt-16 w-[calc(100vw-260px)] ml-[260px]&quot;]/section[@class=&quot;w-full h-full overflow-y-auto&quot;]/main[@class=&quot;w-full h-full overflow-y-auto bg-[#FAFAFA] min-h-[calc(100vh-64px)] p-8&quot;]/div[@class=&quot;my-7 w-full&quot;]/div[@class=&quot;overflow-hidden border border-[#E5E5E5] bg-white&quot;]/div[@class=&quot;thin-scrollbar bg-white lg:w-full w-[calc(100vw_-_60px)] overflow-auto !max-h-[calc(100vh-500px)] h-auto max-h-none lg:max-h-[calc(100vh-320px)]&quot;]/table[1]/tbody[1]/tr[@class=&quot;hover:bg-[#FAFAFA] group&quot;]/td[@class=&quot;pl-5 pr-[21px] py-[7.5px] text-[13px] leading-[18px] font-light text-[#333333] shadow-[inset_-1px_0_0_#E5E5E5,inset_0_-1px_0_0_#E5E5E5]&quot;]/div[@class=&quot;w-full min-w-0 truncate&quot;]/a[@class=&quot;text-blue-5 underline&quot;]</value>
+      <webElementGuid>fa912afa-4bb2-42fd-87e8-fbe9a0812f46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/section/main/div[2]/div[2]/div/table/tbody/tr/td/div/a</value>
+      <webElementGuid>9273b89a-a26a-42ba-82b8-c914efe34312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SAMPLE FF')]</value>
+      <webElementGuid>8cabc8b8-d0a8-437b-8056-5111d3aa57b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIONS'])[1]/following::a[1]</value>
+      <webElementGuid>6298c703-935e-44fb-86f6-ff0d555251f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IS ACTIVE'])[1]/following::a[1]</value>
+      <webElementGuid>ede1f772-00f6-4cc9-974a-9b8dd20ece4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLB_US_LAND'])[1]/preceding::a[1]</value>
+      <webElementGuid>fe01820b-2db4-4cb9-afe6-aa814b3c7e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAMPLE MCDOT'])[1]/preceding::a[1]</value>
+      <webElementGuid>efe6faf5-5dfa-427b-b753-90e44cc4525f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SAMPLE FF']/parent::*</value>
+      <webElementGuid>db97b27e-e5d8-41ec-b7fa-cde2daa12f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/settings/freight-forwarder/partner/update/48d54d28-25fe-4382-9f0b-32485ac27a3a')]</value>
+      <webElementGuid>805157dd-f99f-4c87-8820-28f8cc5b0171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a</value>
+      <webElementGuid>d6250b2c-fec6-473c-b8f0-b3381910ee69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/settings/freight-forwarder/partner/update/48d54d28-25fe-4382-9f0b-32485ac27a3a' and (text() = 'SAMPLE FF' or . = 'SAMPLE FF')]</value>
+      <webElementGuid>3c35c0bf-4879-456a-bc54-cf39acf584a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

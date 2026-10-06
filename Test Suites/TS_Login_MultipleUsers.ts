@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Login_MultipleUsers</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <maxConcurrentInstances>1</maxConcurrentInstances>
+   <numberOfRerun>3</numberOfRerun>
+   <orchestration>CLASSIC</orchestration>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>928d56f4-d8f5-4f23-8554-103c286e482f</testSuiteGuid>
+   <testCaseLink>
+      <guid>a4e961a0-bbf7-4754-90f3-59beaaf8b15d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginFolder/Login_MultipleUsers</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f3c94055-09e1-4c66-8c6d-e03e0a715668</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_Users</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f3c94055-09e1-4c66-8c6d-e03e0a715668</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>7f45f48d-eafa-4f56-a33e-a4cc9e16b19d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f3c94055-09e1-4c66-8c6d-e03e0a715668</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>bedaa61f-58be-4162-932a-bab5d5b2c0e9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

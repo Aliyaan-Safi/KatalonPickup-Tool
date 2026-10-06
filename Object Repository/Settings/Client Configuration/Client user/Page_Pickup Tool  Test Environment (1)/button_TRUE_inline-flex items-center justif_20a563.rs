@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_TRUE_inline-flex items-center justif_20a563</name>
+   <tag></tag>
+   <elementGuidId>3b1e6995-0293-4fbf-81d9-9ff9dfec2af2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/section/main/div[2]/div[2]/div/table/tbody/tr/td[7]/div/a/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Client_695 Client_695 TRUE Edit&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c8814a58-a9a5-40e7-946e-432bb300ba48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ae703a6c-51a4-498f-98c4-2609a2344001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-[color,box-shadow] cursor-pointer disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 [&amp;_svg]:shrink-0 ring-ring/10 dark:ring-ring/20 dark:outline-ring/40 outline-ring/50 focus-visible:ring-4 focus-visible:outline-1 aria-invalid:focus-visible:ring-0 hover:bg-accent h-9 px-4 py-2 has-[>svg]:px-3 text-[#41AE49] hover:text-green-800</value>
+      <webElementGuid>605976a8-cfff-4968-84ca-58ba9c8cf837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-svh w-full&quot;]/section[@class=&quot;flex mt-16 w-[calc(100vw-260px)] ml-[260px]&quot;]/section[@class=&quot;w-full h-full overflow-y-auto&quot;]/main[@class=&quot;w-full h-full overflow-y-auto bg-[#FAFAFA] min-h-[calc(100vh-64px)] p-8&quot;]/div[@class=&quot;my-7 w-full&quot;]/div[@class=&quot;overflow-hidden border border-[#E5E5E5] bg-white&quot;]/div[@class=&quot;thin-scrollbar bg-white lg:w-full w-[calc(100vw_-_60px)] overflow-auto !max-h-[calc(100vh-500px)] h-auto max-h-none lg:max-h-[calc(100vh-320px)]&quot;]/table[1]/tbody[1]/tr[@class=&quot;hover:bg-[#FAFAFA] group&quot;]/td[@class=&quot;pl-5 pr-[21px] py-[7.5px] text-[13px] leading-[18px] font-light text-[#333333] shadow-[inset_-1px_0_0_#E5E5E5,inset_0_-1px_0_0_#E5E5E5] !px-2 text-center [&amp;_button]:!h-[18px] [&amp;_button]:!min-h-0 [&amp;_button]:!py-0 [&amp;_button]:!px-0 [&amp;_button]:!rounded-none [&amp;_svg]:!size-[14px]&quot;]/div[@class=&quot;flex gap-2 flex-wrap items-center&quot;]/a[1]/button[@class=&quot;inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-[color,box-shadow] cursor-pointer disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*='size-'])]:size-4 [&amp;_svg]:shrink-0 ring-ring/10 dark:ring-ring/20 dark:outline-ring/40 outline-ring/50 focus-visible:ring-4 focus-visible:outline-1 aria-invalid:focus-visible:ring-0 hover:bg-accent h-9 px-4 py-2 has-[>svg]:px-3 text-[#41AE49] hover:text-green-800&quot;]</value>
+      <webElementGuid>83c6fbb9-737c-43f4-84c0-06d916e02ab5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/section/main/div[2]/div[2]/div/table/tbody/tr/td[7]/div/a/button</value>
+      <webElementGuid>73e787b5-2f45-408f-a9b4-e5a8d0f864a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRUE'])[1]/following::button[1]</value>
+      <webElementGuid>23f18e21-b136-4799-92a5-780d9013189b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client_695'])[2]/following::button[1]</value>
+      <webElementGuid>0e42ef42-5081-4549-9a8b-533ca76c1742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client_987654'])[1]/preceding::button[1]</value>
+      <webElementGuid>4662b5db-8b00-4985-b294-58d95457fa57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLB_987654'])[1]/preceding::button[1]</value>
+      <webElementGuid>e2d36e9a-60b4-4380-bf23-8155ab5c029d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/a/button</value>
+      <webElementGuid>19ff8c08-8129-496e-ae54-ad9bca32b745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SLB_987654'])[1]/following::button[1]</value>
+      <webElementGuid>8fcc4c5e-70b1-45ae-baff-073e5328cc7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RTS_ADES'])[1]/preceding::button[1]</value>
+      <webElementGuid>b5bfc3fd-554c-4ded-b4ac-dd1ac083069c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADES'])[1]/preceding::button[1]</value>
+      <webElementGuid>cc6d3c46-97c2-4459-bea7-9ea075917871</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

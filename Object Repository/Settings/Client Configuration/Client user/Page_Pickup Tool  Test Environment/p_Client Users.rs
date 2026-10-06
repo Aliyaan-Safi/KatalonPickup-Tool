@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Client Users</name>
+   <tag></tag>
+   <elementGuidId>021bcd1a-5e7a-4193-9ab4-c90c30eab9fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-ref = 'components.flat-tab.tab-title.client_users']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-ref=&quot;components\.flat-tab\.tab-title\.client_users&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;Client Users&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d8c2d646-86f9-4377-9183-5951b1cbbb14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>components.flat-tab.tab-title.client_users</value>
+      <webElementGuid>fdfc789f-696b-4c64-96d3-5ab11bd51c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium</value>
+      <webElementGuid>881fac9c-841a-4e99-8902-0aa5486374e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Client Users</value>
+      <webElementGuid>49eaa922-fe64-410b-b562-09ec55a845d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0773dbfbf7a1dfcee4edbc620e4ff24f</value>
+      <webElementGuid>e1dabb7d-9235-454b-a28c-aa6597b65e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-ref = 'components.flat-tab.tab-title.client_users']</value>
+      <webElementGuid>b8557b9d-8b5d-4ce5-9733-99315735739c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-ref = 'components.flat-tab.tab-title.client_users']</value>
+      <webElementGuid>6cb4c3d0-630c-4b64-b84e-482f252d3c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Client Users' or . = 'Client Users')]</value>
+      <webElementGuid>e79c0dba-201c-4554-966f-75afeefdd114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

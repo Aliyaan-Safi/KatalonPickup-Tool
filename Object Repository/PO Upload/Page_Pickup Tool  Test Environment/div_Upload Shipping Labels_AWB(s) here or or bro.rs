@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Upload Shipping Labels_AWB(s) here or or bro</name>
+   <tag></tag>
+   <elementGuidId>908bc69c-44b1-4c94-8f1a-0ddb091a970d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded-sm.drop-zone</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' drop-zone ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>21f70150-c309-4065-ae7d-0e7fb61d035c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>5f776568-056f-49ed-a5ce-39c82ab32052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c9713949-6073-46cd-86c5-a43efb785dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-2.5 py-1 drop-zone flex min-h-[90px] cursor-pointer flex-col items-center justify-center gap-1 border border-dashed border-primary-p5 mt-2 rounded-sm h-[13.7rem]</value>
+      <webElementGuid>d7c1864d-92ea-4385-9038-5afea68fc67e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Shipping Labels/AWB(s) here or or browse </value>
+      <webElementGuid>2dd2ab2c-0d07-4c15-af6d-99957c9b25b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-253ade34e9579c80392a2a571d3ee8f1</value>
+      <webElementGuid>76bcda05-44a4-40d1-8cf8-7448c848eda4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' drop-zone ')]</value>
+      <webElementGuid>bc47b2dc-0378-4900-a55f-599cd387246d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' drop-zone ')]</value>
+      <webElementGuid>f10fd759-af7e-4d8c-93ff-8d567b294d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Upload Shipping Labels/AWB(s) here or or browse ' or . = 'Upload Shipping Labels/AWB(s) here or or browse ')]</value>
+      <webElementGuid>b4a1e6d9-dba0-4fdb-b97d-d85d8818901a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

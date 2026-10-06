@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_NCR</name>
+   <tag></tag>
+   <elementGuidId>67fae65c-a7c2-438c-ad16-aaa10957ed21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = 'NCR']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;NCR&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b92509fc-d1af-4aa0-97a8-4ab81e4c8daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bd4ac198-9e5f-418e-beac-216272ffba11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-w-0 cursor-pointer items-center rounded-[6px] px-2.5 py-1.5 transition-colors duration-100 mx-auto w-10 h-10 justify-center text-[#333333] hover:bg-gray-50</value>
+      <webElementGuid>55f87d83-4e18-48f6-b58d-f0f9f90be6cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>NCR</value>
+      <webElementGuid>44030d82-1dce-4dfe-bd30-0b255e869b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8bec67c936da9e38d21069c65f019938</value>
+      <webElementGuid>2978dff4-f1cc-4f1f-a6f4-2250a33fc1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = 'NCR']</value>
+      <webElementGuid>90225532-0ba7-4b71-bc72-bb3ceb642c08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = 'NCR']</value>
+      <webElementGuid>6074a375-639c-4326-ae5a-fa71b95f671b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'NCR']</value>
+      <webElementGuid>b214406f-c6ec-4bb5-8631-ab97101b2e2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

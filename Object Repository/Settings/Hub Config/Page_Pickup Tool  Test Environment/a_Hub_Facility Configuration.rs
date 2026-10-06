@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hub_Facility Configuration</name>
+   <tag></tag>
+   <elementGuidId>b7ab59e9-e1fd-4beb-9129-3aaed107b9fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-current = 'page']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-current=&quot;page&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b70c99b7-59a4-43cb-b145-f4da4d133f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex w-full min-w-0 items-stretch gap-5.5 bg-white px-3 active</value>
+      <webElementGuid>e81ec797-b303-4f83-a048-c607950d531b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/settings/hub</value>
+      <webElementGuid>5336ce83-d78e-4802-837c-e2e9a57448d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-discover</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>132a1453-adae-4823-abdb-9fae661c306a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>63dfc0ea-554c-4321-85c9-fdba0f2b04fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hub/Facility Configuration</value>
+      <webElementGuid>33d53b89-2cbc-4381-ae34-47c1e5851896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-51b10ab40c4216384f70918b37fc6e60</value>
+      <webElementGuid>977fb8f9-1a62-4203-a77c-a3998317f6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-current = 'page']</value>
+      <webElementGuid>5147147f-af3f-47cb-97ba-1588b3f5e4e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-current = 'page']</value>
+      <webElementGuid>84ef84f2-b52f-4c89-922d-6b08ddd619ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/settings/hub' and (text() = 'Hub/Facility Configuration' or . = 'Hub/Facility Configuration')]</value>
+      <webElementGuid>bbb15bcf-edf8-4593-ae97-92ee4913f9bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

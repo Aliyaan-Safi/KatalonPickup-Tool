@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_radix-_r_2k_-trigger-Freight Forwarder As</name>
+   <tag></tag>
+   <elementGuidId>abc22b2d-24a7-4a3a-90a3-47933117b896</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-ref=&quot;components\.flat-tab\.tab-trigger\.Freight\ Forwarder\ Assigned&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-ref = 'components.flat-tab.tab-trigger.Freight Forwarder Assigned']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f93dd37-0e4b-4619-8e42-2cdd490d66cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d0b613b5-d1d1-4b66-9a52-a3b216204c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>e6e95fa4-e7d8-4daf-b7cb-2b55f18778d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6c5cfda4-16ac-4aeb-9c7e-6ef973e24d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>radix-_r_2k_-content-Freight Forwarder Assigned</value>
+      <webElementGuid>00a531e5-c7da-4d1f-a3a2-70fe83d4bf9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>inactive</value>
+      <webElementGuid>b3625646-94be-4074-85bc-24e21e315a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radix-_r_2k_-trigger-Freight Forwarder Assigned</value>
+      <webElementGuid>7a75bcb6-d829-437c-be69-89987d069c12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>tabs-trigger</value>
+      <webElementGuid>28ab2f29-dfd8-4173-96de-08e7f95c240b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:outline-ring justify-center whitespace-nowrap focus-visible:ring-[3px] focus-visible:outline-1 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:shadow-sm [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*='size-'])]:size-4 group flex h-auto cursor-pointer items-center gap-[10px] rounded-none border-0 px-3 py-2.5 text-[14px] font-medium leading-5 text-[#333333] shadow-none transition-colors hover:bg-transparent focus-visible:outline-none data-[state=active]:bg-[#FEF2F0] data-[state=active]:pb-[11px] data-[state=active]:pt-[10px] data-[state=active]:text-[#B10A00] data-[state=active]:border-b data-[state=active]:border-b-[#B10A00]</value>
+      <webElementGuid>eaf02f43-8640-4f9a-a907-3f24ed2eb97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>components.flat-tab.tab-trigger.Freight Forwarder Assigned</value>
+      <webElementGuid>88ff2735-2853-48fb-84c9-f7bc70935acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>998d6c29-84d1-4035-82a9-baa2c3a3aace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-orientation</name>
+      <type>Main</type>
+      <value>horizontal</value>
+      <webElementGuid>4f294dcd-8cc8-4a44-983c-b72bd7b600dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Freight Forwarder Assigned434</value>
+      <webElementGuid>6afd4dd8-af95-449e-9644-b4eb2d1de18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fe17611ab0822a3468358557e8f6d982</value>
+      <webElementGuid>6cb50a3c-cfee-480e-92ac-6425c0b31aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-ref = 'components.flat-tab.tab-trigger.Freight Forwarder Assigned']</value>
+      <webElementGuid>751a085e-9ca0-4ca6-95d3-620e0b40a69f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-ref = 'components.flat-tab.tab-trigger.Freight Forwarder Assigned']</value>
+      <webElementGuid>626bdb4d-da8e-4855-87c1-73ac4a5e616c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'radix-_r_2k_-trigger-Freight Forwarder Assigned' and (text() = 'Freight Forwarder Assigned434' or . = 'Freight Forwarder Assigned434')]</value>
+      <webElementGuid>3ba2487a-fcf5-48a8-a42b-1ca103975e78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Full address with city, state, zip</name>
+   <tag></tag>
+   <elementGuidId>1976f304-c295-4b08-b26c-489427d737a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'address']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#address</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>360eea7c-ec32-45ce-8246-27ccebec143f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>01da2df3-1802-4458-ad3a-83d7c64d3519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-input focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive field-sizing-content min-h-16 w-full bg-transparent text-base shadow-xs transition-[color,box-shadow] outline-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm border !text-md font-medium font-red-display block !w-full text-text-primary !bg-background placeholder:text-gray-300 rounded-sm px-4 py-[0.75rem] focus-visible:ring-0 border-solid focus:outline-none</value>
+      <webElementGuid>c44b583e-d217-44c7-a4c0-ba2fd8b62443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>82ce1227-420b-405b-a20a-651d8e2f1199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>5035a486-4b54-40cf-b3ab-d36a76a30401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Full address with city, state, zip</value>
+      <webElementGuid>782c3aa1-91ff-478d-8e43-07634a9cc29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>page.supplier-form.address.components.textarea-field.input</value>
+      <webElementGuid>fd128618-50fe-4978-91fe-d6d5a115b466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>bbd4f85b-e2ee-49dd-8bdb-adbec447889a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-416a8f501f436d46fcc832ae34909acf</value>
+      <webElementGuid>c5515210-a1fa-41db-96bc-48798124aad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'address']</value>
+      <webElementGuid>d6203a11-a814-4c23-b2a8-2aeb175afbc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'address']</value>
+      <webElementGuid>f1cda7ad-242c-4d50-bb96-08ce831ad95c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'address' and @placeholder = 'Full address with city, state, zip' and @name = 'address']</value>
+      <webElementGuid>a1ffe30f-3bea-452b-8188-403915e7198a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

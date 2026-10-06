@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Upload Documents_Commercial_inv</name>
+   <tag></tag>
+   <elementGuidId>48e0ac4e-7780-422a-8ae3-5e8a9242cc1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/section/main/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2a61e4f1-1097-4041-b392-fc908b4b7e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>6954aa42-3d5d-41ce-a044-76b7437d6b5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>eb6ba263-844b-4338-a0c5-733f391f4ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drop-zone flex cursor-pointer flex-col items-center justify-center border-dashed mt-0 min-h-0 gap-3 rounded-lg border-[1.5px] border-[#dc291e] bg-[#fff8f7] p-6</value>
+      <webElementGuid>761a8638-dd37-470d-b18b-a4a687d3f2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload DocumentsBrowsePDF, DOC, DOCX, JPG, PNG up to 10MB</value>
+      <webElementGuid>e646a010-155e-43f2-846f-925cdad7e1ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-svh w-full&quot;]/section[@class=&quot;flex mt-16 w-[calc(100vw-64px)] ml-[64px]&quot;]/section[@class=&quot;w-full h-full overflow-y-auto&quot;]/main[@class=&quot;w-full h-full overflow-y-auto bg-[#FAFAFA] min-h-[calc(100vh-64px)] p-8&quot;]/div[@class=&quot;bg-[#FAFAFA] w-full overflow-none  min-h-[67vh] px-5 pt-6&quot;]/div[@class=&quot;grid grid-cols-[repeat(auto-fill,minmax(min(100%,420px),1fr))] gap-6&quot;]/div[@class=&quot;flex min-w-0 w-full flex-col gap-4 rounded-xl border border-[#e5e5e5] bg-white p-5 shadow-none&quot;]/div[@class=&quot;flex flex-col gap-6 border-b border-dashed border-[#e5e5e5] pb-6&quot;]/div[@class=&quot;flex flex-col gap-0&quot;]/div[@class=&quot;drop-zone flex cursor-pointer flex-col items-center justify-center border-dashed mt-0 min-h-0 gap-3 rounded-lg border-[1.5px] border-[#dc291e] bg-[#fff8f7] p-6&quot;]</value>
+      <webElementGuid>eb349390-7bee-4a7b-88e3-0f89a7106b01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/section/main/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>972be8d0-c09f-44bd-b76d-8a9c974d9be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[2]</value>
+      <webElementGuid>30401719-dd31-44af-87ba-9802673433aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div</value>
+      <webElementGuid>f6f406f5-2d9b-4786-9c27-56847c448bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Upload DocumentsBrowsePDF, DOC, DOCX, JPG, PNG up to 10MB' or . = 'Upload DocumentsBrowsePDF, DOC, DOCX, JPG, PNG up to 10MB')]</value>
+      <webElementGuid>690e1387-5ebb-4192-8953-b0763b77723e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

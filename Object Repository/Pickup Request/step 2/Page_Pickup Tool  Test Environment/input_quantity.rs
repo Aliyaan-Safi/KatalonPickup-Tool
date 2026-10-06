@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_quantity</name>
+   <tag></tag>
+   <elementGuidId>84ac59d6-7932-4b8c-a756-8a42f99bda7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.quantity-field.selection\:text-primary-foreground.file\:text-foreground.selection\:bg-primary.file\:text-sm.md\:text-sm.placeholder\:text-muted-foreground.rounded-lg.shadow-xs.file\:inline-flex.file\:bg-transparent.file\:font-medium.border-input[value=&quot;&quot;][type=&quot;number&quot;][data-slot=&quot;input&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@class and contains(concat(' ', normalize-space(@class), ' '), ' quantity-field ') and contains(concat(' ', normalize-space(@class), ' '), ' selection:text-primary-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' file:text-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' selection:bg-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' file:text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' md:text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' placeholder:text-muted-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' shadow-xs ') and contains(concat(' ', normalize-space(@class), ' '), ' file:inline-flex ') and contains(concat(' ', normalize-space(@class), ' '), ' file:bg-transparent ') and contains(concat(' ', normalize-space(@class), ' '), ' file:font-medium ') and contains(concat(' ', normalize-space(@class), ' '), ' border-input ') and (@value = '') and (@type = 'number') and (@data-slot = 'input')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9d3a3108-1cf3-41b0-b130-ef32a0605d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>468c801a-098f-437e-a2e3-edb4bb8a12ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-input file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground ring-ring/10 dark:ring-ring/20 dark:outline-ring/40 outline-ring/50 aria-invalid:outline-destructive/60 dark:aria-invalid:outline-destructive dark:aria-invalid:ring-destructive/40 aria-invalid:ring-destructive/20 aria-invalid:border-destructive/60 dark:aria-invalid:border-destructive flex h-9 w-full min-w-0 rounded-lg border px-3 py-1 text-base shadow-xs transition-[color,box-shadow] file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium focus-visible:ring-4 focus-visible:outline-1 disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 disabled:bg-neutral-1 disabled:border-[#E5E5E5] aria-invalid:focus-visible:ring-[3px] aria-invalid:focus-visible:outline-none md:text-sm dark:aria-invalid:focus-visible:ring-4 bg-white pl-7 quantity-field</value>
+      <webElementGuid>98d67520-0037-475f-990d-253d76f9792c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2ec87e3a-25ad-4735-8855-3d28f2c8b060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>592db659-cc4e-447f-b193-f7fd6f74b285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a87b5c0400a145a4d2f1d155e6419a14</value>
+      <webElementGuid>b0c96ef8-9364-4932-b880-66e00a035e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@class and contains(concat(' ', normalize-space(@class), ' '), ' quantity-field ') and contains(concat(' ', normalize-space(@class), ' '), ' selection:text-primary-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' file:text-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' selection:bg-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' file:text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' md:text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' placeholder:text-muted-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' shadow-xs ') and contains(concat(' ', normalize-space(@class), ' '), ' file:inline-flex ') and contains(concat(' ', normalize-space(@class), ' '), ' file:bg-transparent ') and contains(concat(' ', normalize-space(@class), ' '), ' file:font-medium ') and contains(concat(' ', normalize-space(@class), ' '), ' border-input ') and (@value = '') and (@type = 'number') and (@data-slot = 'input')]</value>
+      <webElementGuid>616914f4-e576-49ac-a53d-57281c49fd44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@class and contains(concat(' ', normalize-space(@class), ' '), ' quantity-field ') and contains(concat(' ', normalize-space(@class), ' '), ' selection:text-primary-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' file:text-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' selection:bg-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' file:text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' md:text-sm ') and contains(concat(' ', normalize-space(@class), ' '), ' placeholder:text-muted-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' shadow-xs ') and contains(concat(' ', normalize-space(@class), ' '), ' file:inline-flex ') and contains(concat(' ', normalize-space(@class), ' '), ' file:bg-transparent ') and contains(concat(' ', normalize-space(@class), ' '), ' file:font-medium ') and contains(concat(' ', normalize-space(@class), ' '), ' border-input ') and (@value = '') and (@type = 'number') and (@data-slot = 'input')]</value>
+      <webElementGuid>1b2a8507-4d50-4a4f-ab78-6ec1fe8b8c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number']</value>
+      <webElementGuid>35225546-7c8d-4045-95c3-b445f1ea44b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

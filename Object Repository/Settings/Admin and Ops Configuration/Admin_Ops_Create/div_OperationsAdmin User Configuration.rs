@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OperationsAdmin User Configuration</name>
+   <tag></tag>
+   <elementGuidId>d65faed5-e8d1-4254-a925-203d7f24d53e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/aside/nav/div[12]/div/div/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14e3e854-1f60-4acf-9459-c365488ce1b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-w-0 flex-1 items-start gap-2 rounded-[6px] px-2.5 py-1.5 transition-colors bg-[#FEF2F0] font-medium text-[#DC291E]</value>
+      <webElementGuid>d0791a2e-ffc3-4462-a328-1724ba24b8c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operations/Admin User Configuration</value>
+      <webElementGuid>4accd119-f1ca-49ca-aa95-86db0be73ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-svh w-full&quot;]/aside[@class=&quot;fixed left-0 bg-white border-r border-[#E5E5E5] flex flex-col overflow-hidden z-50 w-[260px] transition-transform duration-200 ease-out max-md:top-16 max-md:h-[calc(100vh-4rem)] md:top-0 md:h-full max-md:-translate-x-full max-md:pointer-events-none md:translate-x-0 md:pointer-events-auto md:w-[260px]&quot;]/nav[@class=&quot;min-h-0 flex-1 overflow-x-hidden overflow-y-auto px-2 py-1 flex flex-col items-start gap-0.5&quot;]/div[@class=&quot;w-full min-w-0&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full min-w-0 mt-1&quot;]/a[@class=&quot;flex w-full min-w-0 items-stretch gap-5.5 bg-white px-3 active&quot;]/div[@class=&quot;flex min-w-0 flex-1 items-start gap-2 rounded-[6px] px-2.5 py-1.5 transition-colors bg-[#FEF2F0] font-medium text-[#DC291E]&quot;]</value>
+      <webElementGuid>d61658e0-a6e3-4fc9-a2a0-d4c36935fa81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/aside/nav/div[12]/div/div/a/div[2]</value>
+      <webElementGuid>6439ff94-3c74-4800-ac7e-0ee1805fb0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::div[4]</value>
+      <webElementGuid>c2e50ec2-9d6d-41e5-a91b-a181b32b05f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Downloads'])[1]/following::div[5]</value>
+      <webElementGuid>be21d08d-0e50-4264-81a4-e1c94e6725d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Configuration'])[1]/preceding::div[2]</value>
+      <webElementGuid>41adb1d1-87b7-4425-b047-794bc8bdb9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]</value>
+      <webElementGuid>c495be36-85b6-4a5c-a7c1-48fbd203ddff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Operations/Admin User Configuration' or . = 'Operations/Admin User Configuration')]</value>
+      <webElementGuid>44afee5c-6131-4c61-aa90-80231024c057</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

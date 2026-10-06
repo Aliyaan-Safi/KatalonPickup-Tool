@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>eb093c21-20e8-438e-8c0a-60fbef0d4166</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.h-7.w-7.cursor-pointer > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>86f50f38-4723-4cd5-ac10-39b745278d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6 12h12M12 18V6</value>
+      <webElementGuid>64b8527d-2dc4-4408-a0e0-40ce1e7a8421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>green</value>
+      <webElementGuid>07422870-a479-40dc-87ef-da7214da9926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1.5</value>
+      <webElementGuid>16540795-8ee7-4877-ae5a-d50d8b07e019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>8812e9c7-4509-418a-8fd4-167d7f6d4d68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>3e75ca3b-a877-4b56-8398-b6ebc9fb669c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-_r_27_&quot;)/div[@class=&quot;grid  sm:grid-cols-2 gap-5 my-4 overflow-y-auto max-h-[45vh] pr-6&quot;]/div[@class=&quot;flex items-start gap-3&quot;]/div[@class=&quot;flex items-center gap-3 pt-6&quot;]/svg[@class=&quot;h-7 w-7 cursor-pointer&quot;]/path[1]</value>
+      <webElementGuid>15f1bce2-ae02-406d-8df0-9edfbc8f6cce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_commercial_inv</name>
+   <tag></tag>
+   <elementGuidId>079018cb-0492-47b0-9243-1fee7bad73f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='file'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>input_Commercial_Invoice</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>55429492-b7a5-4702-8592-c5ad4e6746da</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

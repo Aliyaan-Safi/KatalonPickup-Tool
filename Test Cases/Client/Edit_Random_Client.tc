@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit_Random_Client</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f7da13b1-3ab7-44ba-9485-6c6e06aab1dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6dd59360-abed-4088-8403-c8ee1f5fb86d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6dd59360-abed-4088-8403-c8ee1f5fb86d</id>
+      <masked>false</masked>
+      <name>clientCode</name>
+   </variable>
+</TestCaseEntity>
